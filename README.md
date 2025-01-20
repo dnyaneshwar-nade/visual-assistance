@@ -25,5 +25,6 @@ Live Demo: [Visual Learning Assistant](https://visual-assistance.vercel.app/)
 ---
 ## 🛠️ Installation  
 1. Clone the repository:  
-   ```bash  
+   ```bash
+      git clone https://github.com/dnyaneshwar-nade/visual-assistance.git
    
