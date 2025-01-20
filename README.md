@@ -1,7 +1,7 @@
-# Visual Learning Assistant  
-Visual Learning Assistant is an AI-powered application that enables users to solve problems and learn interactively. Simply point your camera at a problem or object, and the app provides narrated solutions in real-time.  
+# Visual Assistant  
+Visual Assistant is an AI-powered application that enables users to solve problems and learn interactively. Simply point your camera at a problem or object, and the app provides narrated solutions in real-time.  
 Built on the advanced Gemini API, this tool combines cutting-edge AI capabilities with a user-friendly interface, making it ideal for learners, professionals, and curious minds.  
-Live Demo: [Visual Learning Assistant](https://visual-assistance.vercel.app/)  
+Live Demo: [Visual Assistant](https://visual-assistance.vercel.app/)  
 ---
 ## ✨ Features  
 - Instant Problem-Solving: Analyze and solve problems in real-time by pointing your camera.  
@@ -18,7 +18,7 @@ Live Demo: [Visual Learning Assistant](https://visual-assistance.vercel.app/)
    - Identify objects, translate signs, or explore unfamiliar topics with ease.  
 ---
 ## 🚀 How It Works  
-1. Launch the App: Open the [Visual Learning Assistant](https://visual-assistance.vercel.app/) on your device.  
+1. Launch the App: Open the [Visual Assistant](https://visual-assistance.vercel.app/) on your device.  
 2. Point Your Camera: Focus on the problem, object, or text.  
 3. AI-Powered Processing: The Gemini API analyzes the input in real-time.  
 4. Receive Solutions: Get narrated answers or step-by-step solutions on-screen.  
